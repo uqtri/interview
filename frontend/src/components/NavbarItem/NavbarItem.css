@@ -1,0 +1,15 @@
+.navbar-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #e6f1ff;
+  width: 164px;
+  height: 56px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.navbar-item:hover {
+  cursor: pointer;
+}

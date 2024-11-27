@@ -1,0 +1,17 @@
+.section {
+  padding: 16px;
+  gap: 8px;
+  border-top: 1px solid;
+  margin-top: 10px;
+  height: 432px;
+  width: 1228px;
+}
+
+.section img {
+  border-radius: 8px;
+}
+
+.item-container {
+  display: flex;
+  align-items: center;
+}

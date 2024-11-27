@@ -1,0 +1,19 @@
+.item-intro {
+  width: 64px;
+  height: 100px;
+}
+.item-intro img {
+  width: 64px;
+  height: 64px;
+}
+/* .item-intro p {
+  word-wrap: break-word;
+} */
+.item-intro p {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+  font-size: 12px;
+  line-height: 1.2;
+  margin: 0;
+}
